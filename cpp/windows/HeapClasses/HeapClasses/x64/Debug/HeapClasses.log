@@ -1,0 +1,3 @@
+﻿  HeapClass.cpp
+b:\cpp\windows\heapclasses\heapclasses\heapclass.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  HeapClasses.vcxproj -> B:\cpp\windows\HeapClasses\x64\Debug\HeapClasses.exe
